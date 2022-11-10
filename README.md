@@ -15,7 +15,7 @@ str_replace(
     string|array $konu
 ):
 
->çıktı : Merhaba PHP
+> çıktı : Merhaba PHP
 ?>
 ```
   

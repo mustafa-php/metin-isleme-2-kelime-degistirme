@@ -1,4 +1,4 @@
-# PHP Metin İşleme Bölüm 2 / Kelime değiştirme
+# PHP Metin İşleme - Bölüm 2 / Kelime değiştirme
 
 str_replace — Bir alt dizgenin bütün örneklerini yenisiyle değiştirir
   

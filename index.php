@@ -31,7 +31,7 @@
 
         input,
         button {
-            padding: .5rem 1rem;
+            padding: .5rem .9rem;
             border: 3px solid #33884C;
             border-radius: 2rem;
             font-size: 1.2rem;

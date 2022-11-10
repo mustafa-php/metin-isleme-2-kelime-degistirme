@@ -9,13 +9,13 @@ $konu = "Merhaba Dünya";
 $eski = "Dünya";
 $yeni = "PHP";
 
-str_replace(
+$sonuc = str_replace(
     array|string $eski,
     array|string $yeni,
     string|array $konu
 ):
 
-> çıktı : Merhaba PHP
+> $sonuc : "Merhaba PHP" ;
 ?>
 ```
   
